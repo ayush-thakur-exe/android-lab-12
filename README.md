@@ -6,3 +6,8 @@ In the app, we:
 * Display our current location
 * Show nearby tourist locations
 * Add markers to those locations
+
+Once the API key is added correctly to the project,     
+The map should load and display something like this:
+
+![preview](load.png)
